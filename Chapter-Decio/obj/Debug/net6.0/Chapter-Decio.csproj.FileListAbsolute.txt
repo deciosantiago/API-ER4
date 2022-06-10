@@ -57,3 +57,13 @@ C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 1\Chapter-Decio
 C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 1\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\Chapter-Decio.pdb
 C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 1\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\Chapter-Decio.genruntimeconfig.cache
 C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 1\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\ref\Chapter-Decio.dll
+C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 2\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\Chapter-Decio.csproj.AssemblyReference.cache
+C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 2\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\Chapter-Decio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 2\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\Chapter-Decio.AssemblyInfoInputs.cache
+C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 2\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\Chapter-Decio.AssemblyInfo.cs
+C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 2\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\Chapter-Decio.csproj.CoreCompileInputs.cache
+C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 2\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\Chapter-Decio.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 2\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\Chapter-Decio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 2\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\Chapter-Decio.dll
+C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 2\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\refint\Chapter-Decio.dll
+C:\Users\WORM\Documents\API - MINHA CONSTRUÇÃO\Encontro remoto 2\Chapter-Decio\Chapter-Decio\obj\Debug\net6.0\Chapter-Decio.pdb

@@ -34,5 +34,93 @@ namespace Chapter_Decio.Controllers
 
         }
 
+        [HttpGet("{id}")]
+        public IActionResult BuscarPorId(int id)
+        {
+            try 
+	        {
+                
+                Livro livro = _livroRepository.BuscarPorId(id);
+
+                if (livro == null)
+                {
+                    return NotFound();
+                }
+
+                return Ok(livro);
+		
+	        }
+	        catch (Exception)
+	        {
+
+		    throw;
+	        }
+        }
+
+
+        [HttpPost]
+
+        public IActionResult Cadastrar(LivroController livro)
+        {
+
+            try 
+	        {	      
+                
+                _livroRepository.Cadastrar(Livro);
+
+                return StatusCode(201);
+		
+	        }
+	        catch (Exception)
+	        {
+
+		    throw;
+	        }
+        }
+
+        [HttpPut("{id}")]
+
+        public IActionResult Atualizar(int id, LivroController livro) 
+        { 
+
+            try 
+	        {	 
+                
+                _livroRepository.Atualizar(Id, Livro);
+
+                return StatusCode(204);
+		
+	        }
+	        catch (Exception)
+	        {
+
+		    throw;
+	        }
+        
+        
+        
+        }
+        [HttpDelete("{id}")]
+
+        public IActionResult Deletar(int id) 
+        
+        {
+            
+            try 
+	        {
+                
+                _livroRepository.Deletar(id);
+
+                return StatusCode(204);
+		
+	        }
+	        catch (Exception)
+	        {
+
+	    	throw;
+	        }
+        
+        
+        }
     }
 }

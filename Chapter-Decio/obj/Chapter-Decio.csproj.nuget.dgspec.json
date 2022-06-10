@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 1\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 1\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 1\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj",
+        "projectName": "Chapter-Decio",
+        "projectPath": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 1\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj",
+        "packagesPath": "C:\\Users\\WORM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 1\\Chapter-Decio\\Chapter-Decio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\WORM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

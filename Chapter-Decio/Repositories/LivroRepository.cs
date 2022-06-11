@@ -1,4 +1,5 @@
 ﻿using Chapter_Decio.Contexts;
+using Chapter_Decio.Controllers;
 using Chapter_Decio.Models;
 
 namespace Chapter_Decio.Repositories
@@ -21,7 +22,7 @@ namespace Chapter_Decio.Repositories
 
         public Livro BuscarPorId(int id)
         {
-            return _context.Livro.find(id);
+            return _context.Livros.Find(id);
         }
 
 
@@ -39,7 +40,8 @@ namespace Chapter_Decio.Repositories
 	        {
 
                 LivroBuscado.Titulo = livro.Titulo;
-                LivroBuscado.QuantidadePaginas = Livro.QuantidadePaginas;
+                int QuantidadePaginas = livro.QuantidadePaginas;
+                LivroBuscado.QuantidadePaginas = QuantidadePaginas;
                 LivroBuscado.Disponivel = livro.Disponivel;
 
 	        }
@@ -59,8 +61,15 @@ namespace Chapter_Decio.Repositories
         
         }
 
-        
-    
+        internal void Cadastrar(LivroController livro)
+        {
+            throw new NotImplementedException();
+        }
+
+        internal void Atualizar(int id, LivroController livro)
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }

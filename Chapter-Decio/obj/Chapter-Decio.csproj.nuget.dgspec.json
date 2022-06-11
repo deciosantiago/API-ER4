@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 1\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj": {}
+    "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 2\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 1\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj": {
+    "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 2\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 1\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj",
+        "projectUniqueName": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 2\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj",
         "projectName": "Chapter-Decio",
-        "projectPath": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 1\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj",
+        "projectPath": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 2\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj",
         "packagesPath": "C:\\Users\\WORM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 1\\Chapter-Decio\\Chapter-Decio\\obj\\",
+        "outputPath": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 2\\Chapter-Decio\\Chapter-Decio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WORM\\AppData\\Roaming\\NuGet\\NuGet.Config",

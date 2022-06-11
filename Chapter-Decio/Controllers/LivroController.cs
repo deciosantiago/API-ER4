@@ -1,4 +1,5 @@
-﻿using Chapter_Decio.Repositories;
+﻿using Chapter_Decio.Models;
+using Chapter_Decio.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -66,7 +67,7 @@ namespace Chapter_Decio.Controllers
             try 
 	        {	      
                 
-                _livroRepository.Cadastrar(Livro);
+                _livroRepository.Cadastrar(livro);
 
                 return StatusCode(201);
 		
@@ -86,7 +87,7 @@ namespace Chapter_Decio.Controllers
             try 
 	        {	 
                 
-                _livroRepository.Atualizar(Id, Livro);
+                _livroRepository.Atualizar(id, livro);
 
                 return StatusCode(204);
 		

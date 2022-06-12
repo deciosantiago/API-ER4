@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xrZxeAECWSJYuoBDY06Wbjuwnc535jLiMjQ/gxQgRgVG16vWfQTpd6gtgItPV7IFBfM/yXNdXk4SSSMSKpDqPg==",
+  "dgSpecHash": "t3leG7lGV5EY4tR9QBFl2UT3fxj6HyNLpj0aEai2sgfreY8N9pOgVRXgs069h6YMKozrSNhFs4OWz/Nz7QGe5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 2\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj",
+  "projectFilePath": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 3\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WORM\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\WORM\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

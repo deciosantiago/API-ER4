@@ -1,5 +1,6 @@
 ﻿using Chapter_Decio.Models;
 using Chapter_Decio.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,6 +12,9 @@ namespace Chapter_Decio.Controllers
     [Route("api/[controller]")]
 
     [ApiController]
+
+    [Authorize(Roles = "1")]
+
     public class LivroController : ControllerBase
     {
         private readonly LivroRepository _livroRepository;

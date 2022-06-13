@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 3\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj": {}
+    "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 4\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 3\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj": {
+    "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 4\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 3\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj",
+        "projectUniqueName": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 4\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj",
         "projectName": "Chapter-Decio",
-        "projectPath": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 3\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj",
+        "projectPath": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 4\\Chapter-Decio\\Chapter-Decio\\Chapter-Decio.csproj",
         "packagesPath": "C:\\Users\\WORM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 3\\Chapter-Decio\\Chapter-Decio\\obj\\",
+        "outputPath": "C:\\Users\\WORM\\Documents\\API - MINHA CONSTRUÇÃO\\Encontro remoto 4\\Chapter-Decio\\Chapter-Decio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WORM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.5, )"
